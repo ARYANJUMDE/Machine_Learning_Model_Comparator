@@ -5,7 +5,7 @@ My Artificial Intelligence & Machine Learning Project
 ## Files
 - `app.py` → Main application / Streamlit or Flask app
 - `project.py` → Core ML model training and prediction code
-- `python_learning_exam_performa...ipynb` → Jupyter notebook with experiments
+- `python_learning_exam_performance.csv` → CSV file
 
 ## How to Run
 ```bash
