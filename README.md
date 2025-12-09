@@ -1,4 +1,4 @@
-# AI_PY_PRO
+# Machine Learning Model Comparator
 
 My Artificial Intelligence & Machine Learning Project
 
